@@ -1,4 +1,4 @@
-### Hi there 👋
+### Junior Game Dev and learning hard
 
 <!--
 **limayne/limayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
